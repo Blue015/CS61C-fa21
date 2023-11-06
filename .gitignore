@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+philphix
+testOutput
+unittest
+tests/*/*.out
+
+>>>>>>> c6a51b6cdf3a7e460bd50177223b359206733521
 # Prerequisites
 *.d
 
@@ -31,7 +39,10 @@
 # Executables
 *.exe
 # *.out
+<<<<<<< HEAD
 a.out
+=======
+>>>>>>> c6a51b6cdf3a7e460bd50177223b359206733521
 *.app
 *.i*86
 *.x86_64
@@ -42,6 +53,10 @@ a.out
 *.su
 *.idb
 *.pdb
+<<<<<<< HEAD
+=======
+a.out
+>>>>>>> c6a51b6cdf3a7e460bd50177223b359206733521
 vgcore.*
 
 # Kernel Module Compile Results
@@ -248,3 +263,10 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+<<<<<<< HEAD
+=======
+
+# lab13 program
+server_basic server_process
+**/*._sobel.bmp
+>>>>>>> c6a51b6cdf3a7e460bd50177223b359206733521

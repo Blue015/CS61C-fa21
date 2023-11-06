@@ -1,5 +1,8 @@
 *.c text eol=lf
+<<<<<<< HEAD
 *.circ text eol=lf
+=======
+>>>>>>> c6a51b6cdf3a7e460bd50177223b359206733521
 *.h text eol=lf
 *.md text eol=lf
 *.s text eol=lf
